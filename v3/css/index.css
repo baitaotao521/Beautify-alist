@@ -1,7 +1,3 @@
-/* 引入字体，全局字体使用 */
-@import url("https://npm.elemecdn.com/lxgw-wenkai-webfont@1.1.0/lxgwwenkai-regular.css");
-
-
 
 :root {
   --mio-main: 255, 255, 255;
